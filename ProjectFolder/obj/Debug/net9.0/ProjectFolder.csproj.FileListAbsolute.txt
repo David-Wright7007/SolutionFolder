@@ -1,0 +1,14 @@
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\bin\Debug\net9.0\ProjectFolder.exe
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\bin\Debug\net9.0\ProjectFolder.deps.json
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\bin\Debug\net9.0\ProjectFolder.runtimeconfig.json
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\bin\Debug\net9.0\ProjectFolder.dll
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\bin\Debug\net9.0\ProjectFolder.pdb
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\obj\Debug\net9.0\ProjectFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\obj\Debug\net9.0\ProjectFolder.AssemblyInfoInputs.cache
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\obj\Debug\net9.0\ProjectFolder.AssemblyInfo.cs
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\obj\Debug\net9.0\ProjectFolder.csproj.CoreCompileInputs.cache
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\obj\Debug\net9.0\ProjectFolder.dll
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\obj\Debug\net9.0\refint\ProjectFolder.dll
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\obj\Debug\net9.0\ProjectFolder.pdb
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\obj\Debug\net9.0\ProjectFolder.genruntimeconfig.cache
+C:\Users\genx2\Desktop\repos\SolutionFolder\ProjectFolder\obj\Debug\net9.0\ref\ProjectFolder.dll
